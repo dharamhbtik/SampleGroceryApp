@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:id="@+id/my_account"
+            android:title="My Account" />
+        <item android:id="@+id/my_order"
+            android:title="My Orders" />
+        <item android:id="@+id/my_address"
+            android:title="My Address" />
+        <item android:id="@+id/my_settings"
+            android:title="Settings" />
+    </group>
+    <group>
+        <item android:id="@+id/need_help"
+            android:title="Need Help?" />
+        <item android:id="@+id/Rate_Us"
+            android:title="Rate Us" />
+    </group>
+    <group>
+        <item android:id="@+id/log_out"
+            android:title="Logout" />
+
+    </group>
+</menu>
